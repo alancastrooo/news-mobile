@@ -6,8 +6,6 @@ Construida con tecnologías modernas para aplicaciones híbridas multiplataforma
 
 ---
 
----
-
 ## 📂 Repositorio
 
 🔗 https://github.com/alancastrooo/news-mobile
@@ -37,37 +35,12 @@ npm install
 
 ---
 
-## 3️⃣ Generar el build web
+## 3️⃣ Ejecutar el proyecto
 
 ```bash
 npm run build
-```
-
----
-
-## 4️⃣ Agregar la plataforma Android (solo la primera vez)
-
-```bash
 npx cap add android
-```
-
----
-
-## 5️⃣ Sincronizar cambios
-
-```bash
 npx cap sync
-```
-
----
-
-## 6️⃣ Ejecutar en emulador Android
-
-Asegúrate de tener abierto un emulador desde Android Studio.
-
-Luego ejecuta:
-
-```bash
 npx cap run android
 ```
 
