@@ -2,7 +2,6 @@
 
 Aplicación móvil de prueba para **NewsMx TV**, desarrollada como proyecto académico de residencias.
 
-Construida con tecnologías modernas para aplicaciones híbridas multiplataforma.
 
 ---
 
